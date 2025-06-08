@@ -1,5 +1,5 @@
 import FourLakes from './components/FourLakes'
-import './App.css'
+import './styles/App.css'
 
 function App() {
   return (

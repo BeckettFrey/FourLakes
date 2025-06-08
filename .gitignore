@@ -38,3 +38,6 @@ coverage/
 
 # Vite specific
 /vite-dist
+
+# Deployment
+deploy.sh

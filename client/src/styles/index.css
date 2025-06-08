@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Background color for the entire application */
+html, body {
+    background-color: #16a34a;
+}
