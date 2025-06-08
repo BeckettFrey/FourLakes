@@ -1,9 +1,9 @@
-import FourLakes from './components/FourLakes'
+import LandingPage from './pages/LandingPage'
 import './styles/App.css'
 
 function App() {
   return (
-   <FourLakes/>
+   <LandingPage/>
   )
 }
 

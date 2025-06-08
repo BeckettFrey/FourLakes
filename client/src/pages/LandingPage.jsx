@@ -2,7 +2,7 @@ import { MdEmail } from 'react-icons/md';
 
 function Header() {
     return (
-        <header className="bg-green-600 text-white py-8 shadow-lg">
+        <header className="text-white py-8 shadow-lg">
             <div className="max-w-6xl mx-auto px-4">
                 <div className="flex items-center space-x-3">
                     <img 
@@ -133,7 +133,7 @@ function Contact() {
 
 function Footer() {
     return (
-        <footer className="bg-green-600 text-white py-8">
+        <footer className="text-white py-8">
             <div className="max-w-6xl mx-auto px-4 text-center">
                 <div className="flex items-center justify-center space-x-2 mb-4">
                     <img 
@@ -152,7 +152,7 @@ function Footer() {
     );
 }
 
-export default function FourLakes() {
+export default function LandingPage() {
     return (
         <>
             <Header />

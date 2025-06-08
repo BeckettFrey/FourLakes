@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-/* Background color for the entire application */
-html, body {
+html, body, #root {
     background-color: #16a34a;
 }
