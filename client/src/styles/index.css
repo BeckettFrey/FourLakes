@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
-html, body, #root {
-    background-color: #16a34a;
+html, 
+body {
+    background-color: #16a34a; /* Tailwind's green-600 */
 }
