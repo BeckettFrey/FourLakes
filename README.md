@@ -1,4 +1,4 @@
-![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/FourLakes/main/client/public/share.png)
+![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/FourLakes/main/client/public/flyer.png)
 # FourLakesDetailing
 
 ---
