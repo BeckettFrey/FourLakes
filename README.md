@@ -1,4 +1,5 @@
 FourLakesDetailing
+![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/main/client/src/public/logo_1.png
 
 ---
 
