@@ -15,7 +15,6 @@ I built this site for my brother and his friends to help them launch their boat 
 
 - **Harper Frey:** “I grew up on these lakes and know how important it is to keep our boats looking their best.”
 - **James Beyler:** “I believe in the power of a clean boat to enhance your entire boating experience.”
-- **Sawyer Stair:** “Attention to detail is what sets us apart. Every boat deserves to shine.”
 
 ## Contact
 
