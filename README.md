@@ -1,5 +1,5 @@
-FourLakesDetailing
-![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/FourLakes/main/client/public/logo_1.png)
+![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/FourLakes/main/client/public/share.png)
+# FourLakesDetailing
 
 ---
 
