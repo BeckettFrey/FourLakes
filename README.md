@@ -1,5 +1,6 @@
+Live @ [https://beckettfrey.com/FourLakes](https://beckettfrey.com/FourLakes)
+
 ![FourLakes Logo](https://raw.githubusercontent.com/BeckettFrey/FourLakes/main/client/public/flyer.png)
-# FourLakesDetailing
 
 ---
 
@@ -21,7 +22,3 @@ I built this site for my brother and his friends to help them launch their boat 
 
 Ready to make your boat sparkle?  
 📧 [fourlakesdetailing@outlook.com](mailto:fourlakesdetailing@outlook.com)
-
----
-
-Live site: [https://beckettfrey.com/FourLakes](https://beckettfrey.com/FourLakes)
